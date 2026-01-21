@@ -1,4 +1,4 @@
 # apnacollege_demo
 this is my fast repository
 <br>
-Author-debadatta sahoo
+Author-debadatta sahoo (Btech)
